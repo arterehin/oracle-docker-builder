@@ -3,8 +3,8 @@ Simple PowerShell pipeline for Docker [single instance](https://github.com/oracl
 
 ## Requirements
 - [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) - WSL enabled, and bash.exe is available
-- [Docker](https://www.docker.com/get-started) - Docker for windows
-- [Git](https://git-scm.com/book/en/v2) - Git installed
+- [Docker](https://www.docker.com/get-started) - Installed Docker for Windows
+- [Git](https://git-scm.com/book/en/v2) - Installed Git
 
 ## Configuration
   Acceptable parameters for [buildContainerImage.sh](https://github.com/oracle/docker-images/blob/main/OracleDatabase/SingleInstance/dockerfiles/buildContainerImage.sh) script.
